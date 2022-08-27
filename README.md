@@ -1,2 +1,3 @@
 # Dice-Game
-Why this project is not creating the link ???
+Why this is saying 404 Error 
+ https://dhruvbadukle.github.io/Dice-Game/
